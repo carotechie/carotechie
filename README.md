@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carotechie
 - 👀 I’m interested in Automation, Servers and Cloud tools
-- 🌱 I’m currently learning GCP and Azure
+- 🌱 I’m currently learning GCP and AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin.com/in/carolinahm
 
